@@ -1,4 +1,2 @@
-branch: master
-language: java
-buildCmd: "mvn build"
-testCmd: "mvn cobertura:cobertura"
+buildCmd: "mvn test"
+testCmd: "mvn test"
