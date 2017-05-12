@@ -1,2 +1,4 @@
 buildCmd: "mvn compile"
 testCmd: "mvn test"
+cbmcArguments:
+    disable-testsuite-minimization: true
